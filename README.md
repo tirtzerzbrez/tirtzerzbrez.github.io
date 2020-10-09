@@ -1,2 +1,2 @@
-# https://tirtzerzbrez.github.io/.
+# tirtzerzbrez.github.io.
 URL SHORTENER GO ONLINE!!!!
