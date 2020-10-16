@@ -1,2 +1,1 @@
-# tirtzerzbrez.github.io
-URL SHORTENER
+# urlshort https://tirtzerzbrez.github.io/index.html
